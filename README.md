@@ -1,0 +1,2 @@
+# Customer_attrition_model
+Some products are there which are expected to close in certain time frame ( e.g. Auto Loans, Credit cards( customers often switch to other options ) but Check-in account is something personal to a customer and if a customer is getting it closed with the bank it is indicating towards customer dissatisfaction. The Bank wants to identify this before its too long to prevent the customer from leaving the bank 
