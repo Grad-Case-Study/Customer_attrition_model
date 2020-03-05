@@ -12,8 +12,8 @@ Household level data
 Build a classification model to predict customer churn with a lead time of two months.
 
 # Methods used for variable selection
-Random Forest Feature Importance
-XGBoost Feature Importance
+Random Forest Feature Importance,
+XGBoost Feature Importance,
 Information Value
 
 
